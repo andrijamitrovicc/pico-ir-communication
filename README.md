@@ -74,6 +74,17 @@ The wiring diagram used for the project is available below:
 
 ![Wiring diagram](docs/wiring-diagram.png)
 
+## Project photos
+
+### Overview
+![Project overview](images/project-overview.jpeg)
+
+### Setup
+![Project setup](images/project-setup.jpeg)
+
+### Another angle
+![Project angle](images/project-overview-angle2.jpeg)
+
 ## Running the project
 
 1. Copy `transmitter/main.py` to the transmitting Pico.
