@@ -83,7 +83,7 @@ The wiring diagram used for the project is available below:
 ![Project setup](images/project-setup.jpeg)
 
 ### Another angle
-![Project overview angle2](images/project-overview-angle2.jpeg)
+![Project overview angle 2](images/project-overview-angle2.jpeg)
 
 ## Running the project
 
